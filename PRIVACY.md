@@ -20,14 +20,9 @@ None of this is sent to LuvDup or anyone else. You can delete it at any time by 
 
 ## When Aura connects to the internet
 
-Aura plays and analyses your music entirely on your device and works fully offline.
+Aura plays and analyses your music entirely on your device, works fully offline and never contacts LuvDup or anyone else.
 
-The only time it goes online is to **check for updates**, and only in the version downloaded from GitHub:
-
-- About every 6 hours, Aura asks GitHub (github.com, run by GitHub, Inc.) whether a newer version exists and, if so, downloads it.
-- Like any website, GitHub receives your IP address and basic technical details (such as the app version) when this happens. Aura sends nothing about you, your music or how you use it. GitHub's handling of this is covered by the [GitHub Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement).
-
-The **Microsoft Store** version of Aura does not check GitHub; it is updated by the Microsoft Store, under [Microsoft's Privacy Statement](https://privacy.microsoft.com/privacystatement).
+Aura is installed and kept up to date by the **Microsoft Store**. Those downloads and updates are handled by Microsoft under the [Microsoft Privacy Statement](https://privacy.microsoft.com/privacystatement); Aura itself does not check for updates or send anything online.
 
 The **Android** version does not connect to the internet at all.
 

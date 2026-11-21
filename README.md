@@ -1,12 +1,9 @@
-# AURA by LuvDup – downloads
+# AURA by LuvDup
 
-Aura is an Auto DJ player for Windows 11.
+Aura is an Auto DJ music player for Windows 11.
 
-Download the latest version from **[Releases](https://github.com/luvdup/aura-releases/releases/latest)**:
+Get it from the **Microsoft Store** as **Aura by LuvDup** – the Store installs it and keeps it up to date.
 
-- `Aura-Setup-x.y.z.exe` – installs Aura. Installed copies update themselves.
-- `Aura-Portable-x.y.z.exe` – runs without installing; tells you when a new version is out.
-
-This repository only holds the finished installers. The source code is private.
+[Privacy policy](PRIVACY.md)
 
 © LuvDup. All rights reserved.
