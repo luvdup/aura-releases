@@ -1,6 +1,6 @@
 # Aura – Privacy Policy
 
-*Last updated: 21 November 2026*
+*Last updated: 22 November 2026*
 
 Aura is an Auto DJ music player for Windows, made by LuvDup in the United Kingdom.
 This policy explains what information Aura uses and where it goes. The short version:
@@ -14,6 +14,7 @@ To work, Aura keeps the following on your own computer only:
 - **Track analysis** – tempo, beat positions, key, loudness, energy and similar details Aura works out by listening to your tracks.
 - **Your settings and history** – skin, volume, keyboard shortcuts, mix style, set plans, what has played recently, and anything you teach Aura in learning mode.
 - **Recordings** – if you record a mix, the audio file is saved where you choose.
+- **Stems** – when Aura splits a track into vocals, drums, bass and melody (including with its built-in AI model), that happens entirely on your computer, in memory. Nothing is uploaded.
 - **Now Playing files** – if you use the streaming/OBS feature, the current track's title, artist and cover are written to `Documents\Aura\Now Playing` and shown on a page that only your own computer can open (`127.0.0.1`).
 
 None of this is sent to LuvDup or anyone else. You can delete it at any time by clearing your library in Aura or uninstalling it.
